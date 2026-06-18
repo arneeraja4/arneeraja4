@@ -15,7 +15,7 @@ MySQL
 
 Backend Development
 
-Fast API
+FastAPI
 
 🎯 Aspiring Software Engineer focused on building impactful and scalable applications.
 
